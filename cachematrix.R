@@ -1,4 +1,6 @@
-# Coursera: R-Programming Week 3
+# Course: Coursera Data Science Specialization
+# Module: R-Programming Week 3
+# Course participant: Mirjam Hachem
 
 # Matrix inversion is usually a costly computation and 
 # there may be some benefit to chaching the invserve of
